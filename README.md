@@ -26,6 +26,12 @@ https://www.webpagefx.com/web-design/color-picker/
 https://imagecolorpicker.com/
 get the color value of a pixel in an image.
 
+## Fonts
+
+### Movie Fonts
+AWESOMELY FREE MOVIE FONTS – AN INFOGRAPHIC
+http://platowebdesign.com/articles/awesomely-free-movie-fonts-infographic/
+
 
 ## HTML Reference
 https://marksheet.io
