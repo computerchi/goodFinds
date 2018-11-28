@@ -99,3 +99,13 @@ https://proto.io/
 ### Clker
 
 http://www.clker.com/
+
+### For HD photographic Images, these are my favourite websites:
+
+http://www.resplashed.com/
+https://pixabay.com/
+
+### For vector images:
+
+https://www.vecteezy.com/
+http://www.freepik.com/
