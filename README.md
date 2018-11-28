@@ -94,6 +94,16 @@ http://principleformac.com/
 
 https://proto.io/
 
+## Icons
+
+### These are some of my favourite resources for free (with attribution) icons:
+
+http://www.flaticon.com/
+
+https://material.io/icons/
+
+http://fontawesome.io/
+
 ## Clip Art
 
 ### Clker
@@ -103,9 +113,11 @@ http://www.clker.com/
 ### For HD photographic Images, these are my favourite websites:
 
 http://www.resplashed.com/
+
 https://pixabay.com/
 
 ### For vector images:
 
 https://www.vecteezy.com/
+
 http://www.freepik.com/
