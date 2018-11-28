@@ -58,3 +58,21 @@ https://www.canva.com/
 
 ### Marvel
 https://marvelapp.com/
+
+### Websites and Tools for Creating Real Life App Mockups
+
+https://placeit.net/
+
+http://magicmockups.com/
+
+http://smartmockups.com/
+
+### Websites and Tools for Creating Designed Mockups (Alternatives to Sketch)
+
+https://moqups.com/
+
+https://www.invisionapp.com/
+
+https://www.uxpin.com/
+
+https://marvelapp.com/
