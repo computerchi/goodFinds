@@ -50,3 +50,11 @@ https://marksheet.io
 
 ## CSS Reference
 https://cssreference.io
+
+## UI Design Tools
+
+### Canva
+https://www.canva.com/
+
+### Marvel
+https://marvelapp.com/
